@@ -21,7 +21,7 @@ with open("requirements.txt") as f:
 
 setup(name='image_processing-test',
     version='0.0.9',
-    license = 'MIT License'
+    license = 'MIT License',
     author='Julian Domeneghini',
     author_email='julian.domeneghini@gmail.com'
 	description = 'Test version - Image processing. This project belongs to Karina Tiemi Kato, Tech Lead, Machine Learning Engineer, Data Scientist Specialist at Take. This package is a demo for simulation of upload on the Test Pypi website, and it\'s from class of the Bootcamp developer full stack Python. E-mail: karinatkato@gmail.com.'
