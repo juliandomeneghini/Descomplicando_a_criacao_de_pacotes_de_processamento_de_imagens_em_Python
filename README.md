@@ -1,27 +1,21 @@
-# package_name
+Projeto: Pacote de Processamento de Imagens
+Autora do Projeto: Karina Kato
 
-Description. 
-The package package_name is used to:
-	- 
-	-
 
-## Installation
+Tecnologia: Python
+Data: 08/06/2023
+Descrição
+O pacote "image_processing-test" é usado para:
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
+Módulo "Processing":
 
-```bash
-pip install package_name
-```
+Correspondência de histograma;
+Similaridade estrutural;
+Redimensionar imagem;
+Módulo "Utils":
 
-## Usage
-
-```python
-from package_name.module1_name import file1_name
-file1_name.my_function()
-```
-
-## Author
-My_name
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
+Ler imagem;
+Salvar imagem;
+Plotar imagem;
+Resultado do gráfico;
+Plotar histograma;
