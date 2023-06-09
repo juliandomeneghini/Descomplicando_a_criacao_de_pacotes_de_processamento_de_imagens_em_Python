@@ -1,5 +1,5 @@
-Projeto: Pacote de Processamento de Imagens
-Autora do Projeto: Karina Kato
+# Projeto: Pacote de Processamento de Imagens
+## Autora do Projeto: Karina Kato
 
 
 Tecnologia: Python
