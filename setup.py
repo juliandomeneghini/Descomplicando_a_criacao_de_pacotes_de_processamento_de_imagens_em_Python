@@ -32,11 +32,3 @@ setup(name='image_processing-test',
     install_requires=requirements,
     python_requires='>=3.8',
 )
-
-    long_description=page_description,
-    long_description_content_type="text/markdown",
-    url='https://github.com/juliandomeneghini/Descomplicando_a_criacao_de_pacotes_de_processamento_de_imagens_em_Python',
-    packages=find_packages(),
-    install_requires=requirements,
-    python_requires='>=3.8',
-)
